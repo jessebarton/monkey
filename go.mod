@@ -1,1 +1,1 @@
-module github.com/jessebarton/waiig_book
+module github.com/jessebarton/monkey
