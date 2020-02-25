@@ -9,8 +9,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Monkey Programming Language")
-
 	user, err := user.Current()
 	if err != nil {
 		panic(err)
